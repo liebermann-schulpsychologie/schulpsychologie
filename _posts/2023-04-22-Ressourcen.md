@@ -40,7 +40,7 @@ bestimmtes Musikgenre etc.
 - Emotionen: Freude, Vorfreude, Stolz, Erleichertung, Liebe, aber auch ein
 aktivierender Ärger etc.
 
-- Ziele: eine zu erlendende Fähigkeit, eine positive Emotion, ein
+- Ziele: eine zu erlerndende Fähigkeit, eine positive Emotion, ein
 bevorstehender Leistungsnachweis, die Zeit nach einem bevorstehenden
 Leistungsnachweis, der gewünschte Abschluss, ein Berufswunsch etc. 
 
@@ -57,8 +57,8 @@ Wahlunterricht etc.
 
 - Orte: das Jugendzentrum, ein Wald, der Schulweg, ein Park, ein Garten etc.
 
-In dieser Aufführung habe sind Aktivitäten meist nicht explizit genannt. Sie
-sind aber unter jedem Punkt mitzudenken, sei es eine Aktivität, in der einer
+In dieser Aufführung sind Aktivitäten meist nicht explizit genannt. Sie
+sind aber unter jedem Punkt mitzudenken, sei es eine Aktivität, in der einem
 Interesse nachgegangen wird, eine Fähigkeit, die ausgenutzt wird oder ein
 Austausch, der mit einer Person aus dem sozialen Netzwerk stattfindet.
 
