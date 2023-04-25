@@ -12,8 +12,9 @@ sich mit leichter Anpassung der Fragen in allen Jahrgangsstufen durchführen.
 
 Eine beratende Person interviewt eine Person, deren Ressourcen gesammelt werden
 sollen. In den meisten Fällen interviewt eine schulpsychologische Fachkraft
-oder eine Lehrkraft eine Schülerin oder einen Schüler. Bei Schüler:innen die auf
-das Interview vorbereitet wurden, ist aber auch ein Interview unter Peers möglich.
+oder eine Lehrkraft eine Schülerin oder einen Schüler. Bei Schüler:innen die
+auf das Interview vorbereitet wurden, ist aber auch ein Interview unter Peers
+möglich.
 
 ## Aufbau
 
@@ -57,7 +58,7 @@ Fragen beginnen mit den W-Fragewörtern wie _wie_, _was_, _wer_ etc. Zum
 Beispiel erfahren wir durch offene Fragen wie _Wie hilft dir XY in schwierigen
 Situationen?_ oder _Welche Gefühle verbindest du mit XY?_ meist mehr als
 Entscheidungsfragen, die schon eine Antwort suggestieren: _Kommst du am Ort XY
-dann zu Ruhe? Verbindest du mit XY ein Gefühl der Sicherheit?_ 
+dann zu Ruhe? Verbindest du mit XY ein Gefühl der Sicherheit?_
 
 - Zirkuläre Fragen: Wir fragen danach, wie eine andere dritte Person unsere
 Frage wohl beantworten würde. Dabei ist nicht wichtig, was die dritte Person
@@ -68,7 +69,6 @@ die sagen, was dir in schwierigen Zeiten hilft?_
 
 ## Material
 
-Download: Ein [Arbeitsblatt]({{ site.baseurl }}{% link materialien/Ressourcenteppich.pdf %})
-mit einem Raster und einem zentralen Kästchen für den Namen der Klientin oder
-des Klienten.
-
+Download: Ein [Arbeitsblatt]({{ site.baseurl }}{% link
+materialien/Ressourcenteppich.pdf %}) mit einem Raster und einem zentralen
+Kästchen für den Namen der Klientin oder des Klienten.

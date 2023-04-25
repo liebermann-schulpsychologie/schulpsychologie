@@ -7,10 +7,10 @@ author: Lukas Liebermann
 
 ## Definition
 
-Was sind eigentlich Ressourcen? Duebner-Böhme und
-Deppe-Schmitz (2018) nennen Ressourcen "Kraftquellen für Körper und Seele". Was
-uns körperlich und seelisch gut tut kann von innen kommen (interne Ressourcen)
-oder von außen (externe Ressourcen).
+Was sind eigentlich Ressourcen? Duebner-Böhme und Deppe-Schmitz (2018) nennen
+Ressourcen "Kraftquellen für Körper und Seele". Was uns körperlich und seelisch
+gut tut kann von innen kommen (interne Ressourcen) oder von außen (externe
+Ressourcen).
 
 ## Beispiele
 
@@ -42,7 +42,7 @@ aktivierender Ärger etc.
 
 - Ziele: eine zu erlerndende Fähigkeit, eine positive Emotion, ein
 bevorstehender Leistungsnachweis, die Zeit nach einem bevorstehenden
-Leistungsnachweis, der gewünschte Abschluss, ein Berufswunsch etc. 
+Leistungsnachweis, der gewünschte Abschluss, ein Berufswunsch etc.
 
 Beispiele für externe Ressourcen von Kindern und Jugendlichen: Auch dies ist
 keine ausschöpfende Liste.
@@ -57,13 +57,12 @@ Wahlunterricht etc.
 
 - Orte: das Jugendzentrum, ein Wald, der Schulweg, ein Park, ein Garten etc.
 
-In dieser Aufführung sind Aktivitäten meist nicht explizit genannt. Sie
-sind aber unter jedem Punkt mitzudenken, sei es eine Aktivität, in der einem
+In dieser Aufführung sind Aktivitäten meist nicht explizit genannt. Sie sind
+aber unter jedem Punkt mitzudenken, sei es eine Aktivität, in der einem
 Interesse nachgegangen wird, eine Fähigkeit, die ausgenutzt wird oder ein
 Austausch, der mit einer Person aus dem sozialen Netzwerk stattfindet.
 
 ## Quellen
 
 Deubner-Böhme, M., & Deppe-Schmitz, U. (2018). _Coaching mit
-Ressourcenaktivierung._ Hogrefe. https://doi.org/10.1026/02790-000
-
+Ressourcenaktivierung._ Hogrefe. <https://doi.org/10.1026/02790-000>
