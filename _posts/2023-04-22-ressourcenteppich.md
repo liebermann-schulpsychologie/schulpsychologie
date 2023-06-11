@@ -45,7 +45,7 @@ du künftig mehr Gebrauch machen?_
 ## Hilfestellungen
 
 In einem ersten Schritt sollte eine [Definition von Ressourcen]({{ site.baseurl
-}}{% post_url 2023-04-22-Ressourcen %}) erarbeitet werden, damit die
+}}{% post_url 2023-04-22-ressourcen %}) erarbeitet werden, damit die
 Klientinnen wissen, wonach sie suchen. Eine erste grundlegende Definition kann
 dann später durch Fragen oder Angebote erweitert werden.
 
