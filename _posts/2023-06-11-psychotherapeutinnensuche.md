@@ -34,9 +34,6 @@ oder ein stationärer[^stationär] Aufenthalt in einer Klinik für Kinder- und
 Jugenpsychiatrie und -psychotherapie eine Alternative zur ambulanten[^ambulant]
 Psychotherapie sein.
 
-[^stationär]: Ein stationärer Aufenthalt in einer Klinik bedeutet, dass die
-Klientin oder der Klient in der Klinik übernachtet.
+[^stationär]: Ein stationärer Aufenthalt in einer Klinik bedeutet, dass die Klientin oder der Klient in der Klinik übernachtet.
 
-[^ambulant]: Ambulante Therapie bedeutet, dass die Klientin oder der Klient
-nicht in einer Klinik übernachtet, sondern nur für Therapiesitzungen zur
-Therapeutin oder zum Therapeuten kommt.
+[^ambulant]: Ambulante Therapie bedeutet, dass die Klientin oder der Klient nicht in einer Klinik übernachtet, sondern nur für Therapiesitzungen zur Therapeutin oder zum Therapeuten kommt.
