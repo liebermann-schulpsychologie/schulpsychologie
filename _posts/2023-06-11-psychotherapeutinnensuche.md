@@ -30,10 +30,10 @@ Beratung einer
 [Erziehungsberatungsstelle](https://www.stmas.bayern.de/erziehungsberatung/stellen/),
 die Behandlung in einem [sozialpädiatrischen
 Zentrum](https://www.dgspj.de/category/bayern+sozialpaediatrische-zentren/)
-oder ein stationärer[^stationär] Aufenthalt in einer Klinik für Kinder- und
+oder ein stationärer[^stationaer] Aufenthalt in einer Klinik für Kinder- und
 Jugenpsychiatrie und -psychotherapie eine Alternative zur ambulanten[^ambulant]
 Psychotherapie sein.
 
-[^stationär]: Ein stationärer Aufenthalt in einer Klinik bedeutet, dass die Klientin oder der Klient in der Klinik übernachtet.
+[^stationaer]: Ein stationärer Aufenthalt in einer Klinik bedeutet, dass die Klientin oder der Klient in der Klinik übernachtet.
 
 [^ambulant]: Ambulante Therapie bedeutet, dass die Klientin oder der Klient nicht in einer Klinik übernachtet, sondern nur für Therapiesitzungen zur Therapeutin oder zum Therapeuten kommt.
