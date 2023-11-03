@@ -4,6 +4,11 @@ last_modified_at: 2023-11-03
 permalink: /correction-symbols/
 ---
 
+Die Kategorisierung der Korrekturzeichen habe ich nur für mehr
+Übersichtlichkeit vorgenommen. Die Übergänge von Formatierung, Sprache und
+Inhalt sind fließend. Zum Beispiel kann ein falscher sprachlicher Bezug den
+Inhalt ändern.
+
 ## Formatierung
 
 - Bitte unterstreichen Sie Ihre Unterschrift.
@@ -15,6 +20,7 @@ permalink: /correction-symbols/
 | Abkürzung | Erklärung |
 |----|----|
 | ul | unleserlich |
+| ¶ | Beginnen Sie einen neuen Absatz. |
 
 ## Sprache
 
@@ -26,13 +32,14 @@ permalink: /correction-symbols/
 | R | Rechtschreibung oder Silbentrennung (Satzabbrüche, fehlende Satzglieder, falsche Satzstellung ...) |
 | Sa | Satzanschluss (Verknüpfung zwischen zwei Sätzen fehlt oder wurde nicht richtig hergestellt) |
 | Sb | Satzbau (Satzabbrüche, fehlende Satzglieder, falsche Satzstellung ...) |
+| Bz | Fehlender/Falscher Bezug (Wörter werden falsch bezogen oder der Bezug
+eines Worts ist uneindeutig) |
 | Z | Zeichensetzung (Komma, Punkt, Fragezeichen etc. sind falsch gesetzt oder fehlen) |
 
 ## Inhalt
 
 | Abkürzung | Erklärung |
 |----|----|
-| ¶ | Beginnen Sie einen neuen Absatz. |
 | I | Inhalt |
 | Def | Definition |
 | Log | Logik |
@@ -41,7 +48,6 @@ permalink: /correction-symbols/
 | Zs | Zusammenhang |
 | Fs | Fachsprache |
 | Bsp | Beispiel |
-| Bz | Fehlender/Falscher Bezug |
 
 # Quellen
 
