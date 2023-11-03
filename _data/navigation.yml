@@ -1,0 +1,6 @@
+# masthead
+main:
+  - title: "Posts"
+    url: /categories/
+  - title: "Korrekturzeichen PäPsy"
+    url: /correction-symbols/
