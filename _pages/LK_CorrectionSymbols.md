@@ -19,7 +19,7 @@ Inhalt ändern.
 
 | Abkürzung | Erklärung |
 |----|----|
-| ul | unleserlich |
+| ul | Unleserlich |
 | ¶ | Beginnen Sie einen neuen Absatz. |
 
 ## Sprache
@@ -32,8 +32,7 @@ Inhalt ändern.
 | R | Rechtschreibung oder Silbentrennung (Satzabbrüche, fehlende Satzglieder, falsche Satzstellung ...) |
 | Sa | Satzanschluss (Verknüpfung zwischen zwei Sätzen fehlt oder wurde nicht richtig hergestellt) |
 | Sb | Satzbau (Satzabbrüche, fehlende Satzglieder, falsche Satzstellung ...) |
-| Bz | Fehlender/Falscher Bezug (Wörter werden falsch bezogen oder der Bezug
-eines Worts ist uneindeutig) |
+| Bz | Fehlender/Falscher Bezug (Wörter werden falsch bezogen oder der Bezug eines Worts ist uneindeutig) |
 | Z | Zeichensetzung (Komma, Punkt, Fragezeichen etc. sind falsch gesetzt oder fehlen) |
 
 ## Inhalt
