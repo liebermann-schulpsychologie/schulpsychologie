@@ -32,8 +32,8 @@ Inhalt ändern.
 | R | Rechtschreibung oder Silbentrennung (Satzabbrüche, fehlende Satzglieder, falsche Satzstellung ...) |
 | Sa | Satzanschluss (Verknüpfung zwischen zwei Sätzen fehlt oder wurde nicht richtig hergestellt) |
 | Sb | Satzbau (Satzabbrüche, fehlende Satzglieder, falsche Satzstellung ...) |
+| Sz / Z | Zeichensetzung (Komma, Punkt, Fragezeichen etc. sind falsch gesetzt oder fehlen) |
 | Bz | Fehlender/Falscher Bezug (Wörter werden falsch bezogen oder der Bezug eines Worts ist uneindeutig) |
-| Z | Zeichensetzung (Komma, Punkt, Fragezeichen etc. sind falsch gesetzt oder fehlen) |
 
 ## Inhalt
 
