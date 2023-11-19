@@ -13,8 +13,7 @@ Recherchen für den Pädagogik/Psychologie-Unterricht helfen können.
   wissenschaflichen Psychologie. Sie eignet sich besonders, wenn Sie für ein
   Referat Definitionen recherchieren.
 
--
-  [Stangl-Taller.at](https://arbeitsblaetter.stangl-taller.at/PPP-such-maschine/):
+- [Stangl-Taller.at](https://arbeitsblaetter.stangl-taller.at/PPP-such-maschine/):
   Diese Website richtet sich an Schüler:innen. Sie ist besonders geeignet, wenn
   Sie nach einer Erklärung für einen Inhalt in einfacherer Sprache suchen, z.B.
   in der Vorbereitung auf einen Leistungsnachweis. Sie eignet sich weniger als
