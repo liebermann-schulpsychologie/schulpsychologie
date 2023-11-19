@@ -8,10 +8,16 @@ author: Lukas Liebermann
 Im Folgenden finden Sie nützliche Links, die Ihnen bei
 Recherchen für den Pädagogik/Psychologie-Unterricht helfen können.
 
-- [Dorsch Lexikon der Psychologie](https://dorsch.hogrefe.com/): Diese Website
-  bietet Ihnen wissenschaftliche Definitionen und Erklärungen von Konzepten der
-  wissenschaflichen Psychologie. Sie eignet sich besonders, wenn Sie für ein
-  Referat Definitionen recherchieren.
+- Folgende Lexika bieten Ihnen Definitionen und Erklärungen von Konzepten der
+  Psychologie. Die Lexika eignen sich besonders, wenn Sie für ein Referat
+  recherchieren, aber auch, um ein tieferes Verständnis beim Lernen zu
+  entwickeln. Bei manchen Einträgen müssen Sie Querverweisen folgen, bis Sie
+  die Information finden, die Sie suchen.
+
+  - [Dorsch Lexikon der Psychologie](https://dorsch.hogrefe.com/)
+
+  - [Spektrum Lexikon der
+    Psychologie](https://www.spektrum.de/lexikon/psychologie/)
 
 - [Stangl-Taller.at](https://arbeitsblaetter.stangl-taller.at/PPP-such-maschine/):
   Diese Website richtet sich an Schüler:innen. Sie ist besonders geeignet, wenn
