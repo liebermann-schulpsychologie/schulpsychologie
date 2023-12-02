@@ -42,7 +42,7 @@ Für **Android** gibt es die kostenlose App
 die nicht vom Autor von Anki entwickelt wurde, aber mit AnkiWeb synchronisiert werden kann.
 
 Für **iPhone und iPad** gibt es eine App vom Autor von Anki:
-[AnkiMobile](https://play.google.com/store/apps/details?id=com.ichi2.anki).
+[AnkiMobile](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387).
 Sie kostet \$24.99. Wie oben erwähnt, können Sie alternativ AnkiWebb im Browser
 verwenden.
 
