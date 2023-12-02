@@ -19,8 +19,7 @@ Pädagogik/Psychologie-Unterricht helfen können.
   - [Spektrum Lexikon der
     Psychologie](https://www.spektrum.de/lexikon/psychologie/)
 
--
-  [Stangl-Taller.at](https://arbeitsblaetter.stangl-taller.at/PPP-such-maschine/):
+- [Stangl-Taller.at](https://arbeitsblaetter.stangl-taller.at/PPP-such-maschine/):
   Diese Website richtet sich an Schüler:innen. Sie ist besonders geeignet, wenn
   Sie nach einer Erklärung für einen Inhalt in einfacherer Sprache suchen, z.B.
   in der Vorbereitung auf einen Leistungsnachweis. Sie eignet sich weniger als
