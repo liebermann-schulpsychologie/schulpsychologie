@@ -30,7 +30,16 @@ Pädagogik/Psychologie-Unterricht helfen können.
   besprechen. Wenn Sie nach einem bestimmten Artikel suchen, empfehle ich die
   "Erweiterte Suche", die Sie finden, wenn Sie auf der Website auf das Menü
   (die drei Striche links oben in der Ecke) klicken. Dann können Sie Jahreszahl
-  und Autoren eingeben.
+  und Autoren eingeben. Leider sind viele Fachartikel hinter einer Paywall,
+  aber bei älteren Artikeln finden Sie auf Google Scholar auch immer wieder
+  rechts neben dem Suchergebnis einen Link zum Volltext. Ist der Volltext nicht
+  verfügbar, können Sie unter dem Link zumindest den Abstract lesen.
+
+- [PSYNDEX](https://psyndex.de/): PSYNDEX bietet eine Suchmaschiene speziell
+  für psychologische Fachliteratur aus dem deutschsprachigen Raum. Wie bei
+  Google Scholar sind die meisten Artikel hinter einer Paywall, aber manche
+  Artikel sind unter dem Link "Volltext" zugänglich. Ist der Volltext nicht
+  verfügbar, steht Ihnen der Abstact unter "Vollansicht" zur Verfügung.
 
 - [3D Gehirn auf BrainFacts.org](https://www.brainfacts.org/3d-brain): In
   diesem 3D-Modell können Sie sich verschiedene Gehirnstrukturen ansehen.
