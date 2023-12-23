@@ -47,6 +47,7 @@ Inhalt ändern.
 | Zs | Zusammenhang |
 | Fs | Fachsprache |
 | Bsp | Beispiel |
+| ug | ungenau |
 
 # Quellen
 
