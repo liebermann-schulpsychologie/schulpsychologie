@@ -4,7 +4,8 @@ date: 2023-09-15
 category: tools
 ---
 
-Anki ist eine vielseitige App für Lernkarten. Obwohl sie anfangs einschüchternd wirken kann, werden Sie sie lieben lernen, wenn Sie ihr eine Chance geben.
+Anki ist eine vielseitige App für Lernkarten. Obwohl sie anfangs einschüchternd
+wirken kann, werden Sie sie lieben lernen, wenn Sie ihr eine Chance geben.
 
 ## Wie man die Desktop-/Laptop-App installiert
 
@@ -91,7 +92,7 @@ eigenen Notiztypen erstellen.
 
 Detaillierte Hilfe: <https://docs.ankiweb.net/getting-started.html>
 
-## Ein Deck studieren
+## Ein Deck wiederholen
 
 1. Klicken Sie im *Decks*-Menü (Stapelübersicht) auf den Stapel, den Sie
    lernen möchten.
@@ -106,3 +107,9 @@ Detaillierte Hilfe: <https://docs.ankiweb.net/getting-started.html>
 5. Wählen Sie aus, wie bald Sie die Karte erneut lernen möchten. Sie können
    zwischen *Again/Nochmal*, *Hard/Schwer*, *Good/Gut*, *Easy/Einfach* wählen.
    Seien Sie ehrlich zu sich selbst in Ihrer Wahl!
+
+-----------------------------------------------------------------------------
+
+Dieser Artikel wurde zuerst in leicht abgeänderter Form auf Englisch auf meinem
+anderen Blog veröffentlicht:
+<https://lkirst.github.io/lie-esl/tools/anki-basics/>
