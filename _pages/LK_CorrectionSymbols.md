@@ -9,20 +9,27 @@ Die Kategorisierung der Korrekturzeichen habe ich nur für mehr
 Inhalt sind fließend. Zum Beispiel kann ein falscher sprachlicher Bezug den
 Inhalt ändern.
 
-## Formatierung
+## Hinweise zur Form
 
 - Bitte unterstreichen Sie Ihre Unterschrift.
+
+- Bitte machen Sie inhaltlich sinnvolle Absätze. Im Fachaufsatz bietet sich zum
+  Beispiel an, Theorie und Anwendung durch Absätze zu trennen. Einleitung und
+  Schluss sollten immer durch Absätze vom Rest der Bearbeitung abgesetzt sein.
 
 - Bitte überspringen Sie jede zweite Zeile in handgeschriebenen Texten und zwei
   oder mehr Zeilen zwischen Absätzen. Das macht es Ihnen leichter, Ergänzungen
   hinzuzufügen und ich habe genügend Platz für Korrekturen.
 
+## Allgemeine Korrekturzeichen
+
 | Abkürzung | Erklärung |
 |----|----|
 | ul | Unleserlich |
-| ¶ | Beginnen Sie einen neuen Absatz. |
+| ug | Ungenau |
+| uv | Unvollständig |
 
-## Sprache
+## Sprache und Form
 
 | Abkürzung | Erklärung |
 |----|----|
@@ -34,6 +41,8 @@ Inhalt ändern.
 | Sb | Satzbau (Satzabbrüche, fehlende Satzglieder, falsche Satzstellung ...) |
 | Sz / Z | Zeichensetzung (Komma, Punkt, Fragezeichen etc. sind falsch gesetzt oder fehlen) |
 | Bz | Fehlender/Falscher Bezug (Wörter werden falsch bezogen oder der Bezug eines Worts ist uneindeutig) |
+| ¶ | Beginnen Sie einen neuen Absatz. |
+| Gl | Gliederungsfehler |
 
 ## Inhalt
 
@@ -46,8 +55,7 @@ Inhalt ändern.
 | Bgr | Fehlenede/falsche Begründung |
 | Zs | Zusammenhang |
 | Fs | Fachsprache |
-| Bsp | Beispiel |
-| ug | ungenau |
+| Bsp | Fehlendes oder falsches Beispiel / fehlende oder falsche Anwendung |
 
 # Quellen
 
