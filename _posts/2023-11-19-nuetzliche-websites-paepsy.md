@@ -1,5 +1,5 @@
 ---
-title: "Nützliche Websites für den Pädagogik/Psychologie Unterricht"
+title: "Websites für den Pädagogik/Psychologie Unterricht"
 date: 2023-11-19
 categories: Paepsy
 author: Lukas Liebermann
