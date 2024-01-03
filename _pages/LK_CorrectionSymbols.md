@@ -43,6 +43,7 @@ Inhalt ändern.
 | Bz | Fehlender/Falscher Bezug (Wörter werden falsch bezogen oder der Bezug eines Worts ist uneindeutig) |
 | ¶ | Beginnen Sie einen neuen Absatz. |
 | Gl | Gliederungsfehler |
+| F | Form (Stichpunkte statt Fließtext) |
 
 ## Inhalt
 
