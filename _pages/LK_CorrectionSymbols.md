@@ -11,15 +11,18 @@ Inhalt ändern.
 
 ## Hinweise zur Form
 
-- Bitte unterstreichen Sie Ihre Unterschrift.
+- Bitte machen Sie **inhaltlich sinnvolle Absätze**. Im Fachaufsatz bietet es sich
+  an, Theorie und Anwendung durch Absätze zu trennen. Je nach Umfang des
+  Fachaufsatzes ist auch eine weitere Unterteilung der Theorie und Anwendung in
+  Absätze sinnvoll (z.B. nach Stufen/Schritten des Modells, das beschrieben
+  wird). Einleitung und Schluss sollten immer durch Absätze vom Rest der
+  Bearbeitung abgesetzt sein.
 
-- Bitte machen Sie inhaltlich sinnvolle Absätze. Im Fachaufsatz bietet sich zum
-  Beispiel an, Theorie und Anwendung durch Absätze zu trennen. Einleitung und
-  Schluss sollten immer durch Absätze vom Rest der Bearbeitung abgesetzt sein.
-
-- Bitte überspringen Sie jede zweite Zeile in handgeschriebenen Texten und zwei
+- Bitte **überspringen Sie jede zweite Zeile** in handgeschriebenen Texten und zwei
   oder mehr Zeilen zwischen Absätzen. Das macht es Ihnen leichter, Ergänzungen
   hinzuzufügen und ich habe genügend Platz für Korrekturen.
+
+- Bitte **nummerieren Sie Ihre Seiten**, wenn Sie mehr als ein Blatt verwenden.
 
 ## Allgemeine Korrekturzeichen
 
