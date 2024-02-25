@@ -1,6 +1,6 @@
 ---
 title: "Atemraute"
-date: 2024-04-22
+date: 2024-02-22
 categories: Entspannung
 author: Lukas Liebermann
 ---
