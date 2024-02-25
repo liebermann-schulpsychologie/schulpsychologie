@@ -12,8 +12,7 @@ Herzschlag und eine schnelle, flache Atmung) zu entspannen.
 
 Wir legen folgende Raute vor uns:
 
-![](/materialien/BoxBreathing.svg)
-<img src="/materialien/BoxBreathing.svg")>
+![](/materialien/BoxBreathing.png)
 
 Wir gehen nun mit den Augen die Seiten der Raute ab und zählen dabei in
 Gedanken an jeder Seite bis vier:
