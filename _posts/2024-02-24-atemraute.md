@@ -33,6 +33,6 @@ Wichtig für diese Übung, ist, dass du sie häufig übst, wenn es dir gut geht,
 damit sie automatisiert wird. Dann fällt es dir leichter, sie auszuführen, wenn
 du mit Angst, Sorgen, oder allgemein Stress zu kämpfen hast.
 
-Wenn du die Übung häufig durchgeführt hast, kannst du sie ausführen, ohne das
-Bild der Raute vor dir liegt. Zähle aber weiterhin mit und stelle dir die Raute
-vor deinem inneren Auge vor.
+Wenn du die Übung häufig durchgeführt hast, kannst du sie ausführen, ohne dass
+das Bild der Raute vor dir liegt. Zähle aber weiterhin mit und stelle dir die
+Raute vor deinem inneren Auge vor.
