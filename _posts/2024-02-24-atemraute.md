@@ -6,9 +6,9 @@ author: Lukas Liebermann
 ---
 
 Die Atemraute (engl. "box breathing" oder "four-square breathing") hilft uns
-sowohl Gedankenkreisen zu unterbrechen (die Angst- oder Sorgengedanken) zu
-unterbrechen, die uns nicht loslassen, als auch den Körper (einen schnellen
-Herzschlag und eine schnelle, flache Atmung) zu entspannen.
+sowohl Gedankenkreisen zu unterbrechen (die Angst- oder Sorgengedanken), als
+auch den Körper (einen schnellen Herzschlag und eine schnelle, flache Atmung)
+zu entspannen.
 
 Wir legen folgende Raute vor uns:
 
