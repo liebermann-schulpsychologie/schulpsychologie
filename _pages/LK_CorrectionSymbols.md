@@ -93,7 +93,7 @@ Inhalt ändern.
 
     - Definieren Sie alle relevanten Begriffe.
 
-    - Eläutern Sie den Sachverhalt und zeigen so Verständnis der Termatik.
+    - Erläutern Sie den Sachverhalt und zeigen so Verständnis der Thematik.
       Verdeutlichen Sie relevante Zusammenhänge und Prozesse.
 
 3. **Anwendung** (separat für jede Teilaufgabe): Bitte gehen Sie auf alles, was Sie
@@ -103,10 +103,10 @@ Inhalt ändern.
    Aufgabentypen:
 
     - Sie bekommen eine vorgegebene Lernsituation, aus der Sie Beispiele
-      entnehmen müssen, an denen Sie Ihr Verständnis Theorie zeigen.
+      entnehmen müssen, an denen Sie Ihr Verständnis der Theorie zeigen.
 
     - Sie müssen in einem vorgegebenen Rahmen selbst Beispiele formulieren, die
-      sich eignen, die Ihr Verständnis der Theorie zu zeigen.
+      sich eignen, Ihr Verständnis der Theorie zu zeigen.
 
 4. **Schluss**: Beenden Sie den Aufsatz mit einem kurzen Schlussgedanken. Nehmen
    Sie zum Beispiel Stellung zum Thema oder zur Theorie mit einer Einordnung
