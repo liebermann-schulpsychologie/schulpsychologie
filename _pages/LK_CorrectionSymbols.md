@@ -32,7 +32,7 @@ Inhalt ändern.
 | Bz | Fehlender/Falscher Bezug (Wörter werden falsch bezogen oder der Bezug eines Worts ist uneindeutig) |
 | ¶ | Beginnen Sie einen neuen Absatz. |
 | Gl | Gliederungsfehler |
-| F | Form (Stichpunkte statt Fließtext) |
+| F | Form (Stichpunkte statt Fließtext, Abkürzungen) |
 
 ## Inhalt
 
@@ -74,6 +74,9 @@ Inhalt ändern.
   Indirektes Zitat (fasst den Inhalt des Abschnittes in Ihren eigenen Worten
   zusammen): *... eine Steigerung der Motivation der/des
   Praktikantin/Praktikanten (vgl. Z. 34-35) ...*
+
+- Verwenden Sie das **Präsens** (Gegenwart), wenn Sie im Rahmen der Anwendung
+  Teile der Lernsituation indirekt zitieren.
 
 - Bitte **nummerieren Sie Ihre Seiten**, wenn Sie mehr als ein Blatt verwenden.
 
