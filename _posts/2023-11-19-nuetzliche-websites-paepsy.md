@@ -35,7 +35,7 @@ Pädagogik/Psychologie-Unterricht helfen können.
   rechts neben dem Suchergebnis einen Link zum Volltext. Ist der Volltext nicht
   verfügbar, können Sie unter dem Link zumindest den Abstract lesen.
 
-- [PSYNDEX](https://psyndex.de/): PSYNDEX bietet eine Suchmaschiene speziell
+- [PSYNDEX](https://psyndex.de/): PSYNDEX bietet eine Suchmaschine speziell
   für psychologische Fachliteratur aus dem deutschsprachigen Raum. Wie bei
   Google Scholar sind die meisten Artikel hinter einer Paywall, aber manche
   Artikel sind unter dem Link "Volltext" zugänglich. Ist der Volltext nicht
