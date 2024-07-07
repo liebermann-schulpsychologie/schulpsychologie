@@ -26,7 +26,7 @@ Pädagogik/Psychologie-Unterricht helfen können.
   Quelle, die Sie z.B. in Referaten zitieren.
 
 - [Google Scholar](https://scholar.google.de/): Auf Google Scholar finden Sie
-  die wissenschaftlichen Artikeln zu vielen Versuchen, die wir im Unterricht
+  die wissenschaftlichen Artikel zu vielen Versuchen, die wir im Unterricht
   besprechen. Wenn Sie nach einem bestimmten Artikel suchen, empfehle ich die
   "Erweiterte Suche", die Sie finden, wenn Sie auf der Website auf das Menü
   (die drei Striche links oben in der Ecke) klicken. Dann können Sie Jahreszahl
