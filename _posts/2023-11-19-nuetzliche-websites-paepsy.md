@@ -45,7 +45,7 @@ Pädagogik/Psychologie-Unterricht helfen können.
 
 - [Researchgate](https://www.researchgate.net/): Auf Researchgate können Sie
   mit einem kostenlosen Account Volltexte direkt bei Forscher:innen anfragen,
-  an die Sie sonst nicht kommen, weil Sie hinter einer Paywall sind.
+  an die Sie sonst nicht kommen, weil die Artikel hinter einer Paywall stecken.
 
 - [3D Gehirn auf BrainFacts.org](https://www.brainfacts.org/3d-brain): In
   diesem 3D-Modell können Sie sich verschiedene Gehirnstrukturen ansehen.
