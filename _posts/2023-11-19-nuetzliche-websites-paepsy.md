@@ -1,7 +1,7 @@
 ---
 title: "Websites für den Pädagogik/Psychologie Unterricht"
 date: 2023-11-19
-categories: Paepsy
+categories: PaePsy
 author: Lukas Liebermann
 last_modified_at: 2024-10-13
 ---
