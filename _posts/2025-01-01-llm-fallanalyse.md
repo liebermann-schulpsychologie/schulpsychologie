@@ -1,5 +1,5 @@
 ---
-title: 'Üben durch Korrigigieren von KI-Antworten'
+title: 'Üben durch Korrigieren von KI-Antworten'
 date: 2025-01-01
 category: tools
 ---
@@ -10,8 +10,9 @@ In einem früheren Post haben wir mit [LLM Chat-Anwendungen Übungsfälle
 erstellt]({{ site.baseurl }}{% link
 _posts/2024-12-19-fallbeispiele-selbst-erstellen.md %}). KI-Anwendungen eignen
 sich **nicht** (ohne vorherige Überarbeitung) für die Erstellung von
-Musterlösungen in PäPsy, da sie auch Inhalte halluzinieren, nicht immer
-geeignete Schwerpunkte wählen und Konzepte immer wieder falsch anwenden.
+Musterlösungen in PäPsy, da sie auch Inhalte halluzinieren, Schwerpunkte
+ungünstig setzen, Konzepte falsch anwenden oder nicht in die geforderte Tiefe
+gehen.
 
 Allerdings kann es eine hilfreiche Übung sein, sich eine "Lösung" von einer
 KI-Anwendung erstellen zu lassen, und die Antwort dann zu beurteilen:
@@ -49,63 +50,59 @@ entwerfen. Wenn Sie PREP noch nicht kennen, lesen Sie im [vorangegangenen
 Post]({{ site.baseurl }}{% link
 _posts/2024-12-19-fallbeispiele-selbst-erstellen.md %}).
 
-## Prompt zur Erklärung psychischer Fehlentwicklung
+Die Prompts unten sind nicht annähernd perfekt aber ein guter Ausgangspunkt,
+und für die Aufgabenstellung, die KI-Antworten zu bewerten, reichen sie aus.
 
-*Erkläre mir aus Sicht der Psychoanalyse wie die psychische Erkrankung in dem
-Fall entwickelt wurde, den ich dir schildere.
+## Beispiel
+
+Erkläre mir aus Sicht der Psychoanalyse wie die psychische Erkrankung in dem
+Fall entwickelt wurde, den ich dir schildere. Dann erkläre, wie du in der
+Beratung oder Therapie in dem Fall vorgehen würdest.
 
 Du bist ein Experte für den Ansatz der Psychoanalyse nach Sigmund Freud.
 
-Gehe bei jedem Ansatzpunkt der Erklärung in zwei Schritten vor. Erkläre im
-ersten Schritt die Theorie (Fachbegriffe, Konzepte, Zusammenhänge). Im zweiten
-Schritt, wende die Theorie auf das Fallbeispiel an, um die Pathogenese zu
-erklären. In der Anwendung sollte der Rückbezug zur Theorie hergestellt werden.
-Verwende in der Theorie ausschließlich Konzepte, die in der angehängten
-Zusammenfassung auftauchen. Das Ziel ist nicht, alle Konzepte aus der
-Zusammenfassung auf das Beispiel anzuwenden, sondern eine für die Erklärung
-relevante Auswahl zu treffen. Auch wenn du unterschiedliche Ansatzpunkte
-ansprichst, sollte eine kohärente Erklärung der psychischen Erkrankung
-entstehen, in die sich die einzelnen Ansatzpunkte einfügen. Mache keine
-(therapeutischen) Lösungsvorschläge für den Fall, sondern beschränke dich auf
-die Pathogenese. Falls der Fall zu wenige Informationen enthält für eine
-Erklärung aus deiner Perspektive, mache Zusatzannahmen über den Fall (z.B.
-bestimmte Ereignisse in der Vergangenheit), die eine Erklärung aus deiner
-Perspektive ermöglichen. Weise darauf hin, wenn du Zusatzannahmen machst und
-über die in der Fallbeschreibung gebotenen Informationen hinaus gehst. 
+Gehe bei jedem Ansatzpunkt der Erklärung oder den Lösungskonzepten in zwei
+Schritten vor. Erkläre im ersten Schritt die Theorie (Fachbegriffe, Konzepte,
+Zusammenhänge). Zentrale Fachbegriffe sollest du definieren. Im zweiten
+Schritt, wende die Theorie auf das Fallbeispiel an, um entweder die Pathogenese
+zu erklären oder Lösungsansätze für Beratung und Therapie zu entwickeln. In der
+Anwendung sollte der Rückbezug zur Theorie hergestellt werden. Verwende in der
+Theorie ausschließlich Konzepte, die in der angehängten Zusammenfassung
+auftauchen. Treffe eine für die Erklärung und Lösung relevante Auswahl der
+Konzepte aus der Zusammenfassung. Auch wenn du unterschiedliche Ansatzpunkte
+ansprichst, sollte eine kohärente Erklärung der psychischen Erkrankung und ein
+kohärentes Therapiekonzept entstehen, in die sich die einzelnen Ansatzpunkte
+einfügen. Falls der Fall zu wenige Informationen enthält für eine Erklärung aus
+deiner Perspektive, mache Zusatzannahmen über den Fall (z.B. bestimmte
+Ereignisse in der Vergangenheit), die eine Erklärung aus deiner Perspektive
+ermöglichen. Weise darauf hin, wenn du Zusatzannahmen machst und über die in
+der Fallbeschreibung gebotenen Informationen hinaus gehst. Gehe erst auf
+Lösungsvorschläge ein, wenn du die Pathogenese im Detail erklärt hast.
 
 Strukturiere die Antwort mit Spiegelstrichen. Formatiere die Theorieteile der
-Antwort kursiv, damit sie sich von den Anwendungsteilen abheben.*
+Antwort kursiv, damit sie sich von den Anwendungsteilen abheben.
 
-Für andere Perspektiven müssen Sie nur die ersten zwei Sätze und die
-Zusammenfassung austauschen:
+*Für andere Perspektiven müssen Sie nur die ersten Sätze und die
+Zusammenfassung austauschen:*
 
-*Erkläre mir aus Sicht der Theorie der operanten Konditionierung, wie die
-psychische Erkrankung in dem Fall entwickelt wurde, den ich dir schildere. Du
-bist ein Experte für die Theorien von Thorndike und Skinner.*
+- ... aus Sicht der Theorie der operanten Konditionierung, ... Experte für die
+  Theorien von Thorndike und Skinner ...
 
-*Erkläre mir aus Sicht der sozial-kognitiven Theorie, wie die psychische
-Erkrankung in dem Fall entwickelt wurde, den ich dir schildere. Du bist ein
-Experte für die Theorien von Albert Bandura.*
+- ... aus Sicht der sozial-kognitiven Theorie, ... ein Experte für die
+  Theorien von Albert Bandura.
 
-*Erkläre mir aus Sicht der personenzentrierten Theorie, wie die psychische
-Erkrankung in dem Fall entwickelt wurde, den ich dir schildere. Du bist ein
-Experte für die Theorie von Rogers.*
+- ... aus Sicht der personenzentrierten Theorie ... Experte für die Theorie
+  von Rogers.
 
-Bei meinen Versuchen mit einem Assistenten zur klassischen Konditionierung habe
+*Bei meinen Versuchen mit einem Assistenten zur klassischen Konditionierung habe
 ich festgestellt, dass hier ein zusätzlicher Satz zur Rolle nützlich war, sonst
-waren die Anwendungsabschnitte teils gänzlich unbrauchbar.
+waren die Anwendungsabschnitte teils gänzlich unbrauchbar.*
 
-*Erkläre mir aus Sicht der Theorie der klassischen Konditionierung wie die
-psychische Erkrankung in dem Fall entwickelt wurde, den ich dir schildere. Du
-bist ein Experte für die Theorie der klassischen Konditionierung unter anderem
-nach Iwan Pawlow oder John B. Watson. Du legst besonderen Wert darauf, dass die
-Theorie der klassischen Konditionierung nur so angewendet wird, wie im Rahmen
-gängiger Störungsmodelle der klinischen Psychologie üblich z.B. im Rahmen von
-Furchtkonditionierung.*
-
-## Prompt zu Lösungsansätzen
-
-{: .notice--info}
-Wird bald ergänzt.
+... aus Sicht der Theorie der klassischen Konditionierung ... Experte für die
+Theorie der klassischen Konditionierung unter anderem nach Iwan Pawlow oder
+John B. Watson. Du legst bei der Erklärung von psychischen Störungen mit der
+Theorie der klassischen Konditionierung besonderen Wert darauf, dass sie nur so
+angewendet wird, wie im Rahmen gängiger Störungsmodelle der klinischen
+Psychologie üblich z.B. im Rahmen von Furchtkonditionierun.
 
 [^AIclassroom]: Fitzpatrick, D. (2023). *The AI classroom: The ultimate guide to artificial intelligence in education.* TeacherGoals Publishing.
