@@ -116,10 +116,14 @@ Rückmeldung zu geben**, die Ihnen hoffentlich hilft.
 ## Startpunkte für Ihre Recherche
 
 Bei vielen Fachreferatsthemen ist zu empfehlen, dass Sie früh in der Recherche
-(erste Woche) in eine Universitätsbibliothek schauen. Davor sollten Sie über
+(erste Woche) in eine Universitätsbibliothek schauen. Davor sollten Sie sich über
 den online Universitätskatalog informieren, wo für Sie relevante Werke zu
 finden sind. Für PP-Fachreferate bieten sich nur Bibliotheken von Universitäten
 an, die auch Pädagogik- oder Psychologie-Lehrstühle haben.
+
+Überprüfen Sie in Ihrer Recherche auch englischsprachige Quellen. English ist
+die Sprache der Wissenschaft und in den meisten Fällen werden Sie mehr
+Veröffentlichungen in Englisch finden.
 
 Nützliche Websites für PP:
 <https://liebermann-schulpsychologie.github.io/schulpsychologie/paepsy/nuetzliche-websites-paepsy/>
