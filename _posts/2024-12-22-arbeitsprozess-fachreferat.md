@@ -12,7 +12,8 @@ Endbewertung ein. Nützen Sie das Feedback, das Sie bekommen. Für die
 Besprechungstermine kommen Sie auf mich zu und **machen mir ein Angebot für
 eine Pause (zweite Pause oder Mittagspause)**, in der Sie Zeit haben Ihre
 Ergebnisse zu besprechen. Sie sind dafür verantwortlich, dass die Besprechungen
-mit mir im vorgesehenen Zeitraum stattfinden.
+mit mir im vorgesehenen Zeitraum stattfinden und Sie sollten sich zu jeder
+Besprechung **Fragen an mich überlegen**.
 
 Bitte reichen Sie alle Abgaben **in PDF-Format** über Teams ein mit einem
 Dateinamen, der **mit Ihrem Nachnamen beginnt** und keine Leerzeichen enthält.
@@ -48,7 +49,15 @@ nimmt Ihnen viel Arbeit ab, aber Sie müssen insbesondere bei dem automatischen
 Import von Quellen in Zotero **kontrollieren, ob alle für die Zitation
 notwendigen Daten richtig importiert** wurden. Es finden Sich online viele
 Anleitungen zu Zotero, z.B. auf der [Website von
-Zotero](https://www.zotero.org/support/quick_start_guide).
+Zotero](https://www.zotero.org/support/quick_start_guide). Wenn Sie
+Schwierigkeiten mit Zotero haben, kommen Sie rechtzeitig auf mich zu, damit ich
+Ihnen helfen kann.
+
+Wenn Sie als Teil einer Quelle in der Bibliographie einen Link angeben, geben
+Sie bitte die URL an, nicht einen Linktext, der in einem gedruckten Dokument
+keinen Aufschluss über den Link zulässt. Für den Link zu Zotero oben, würde
+dies bedeuten, dass Sie nicht "[Zotero](https://www.zotero.org/)" angeben,
+sondern "<https://www.zotero.org/>".
 
 Sie dürfen und sollten generative KI-Tools als Hilfsmittel für Ihr Fachreferat
 nutzen. Dabei müssen Sie Ihre **KI-Anwendung detailliert dokumentieren**.
@@ -63,7 +72,7 @@ Anhang. In dieser Tabelle sollte mindestens angegeben sein:
 - Verwendungszweck
 - Stellenangabe in der Arbeit (z.B. Folie in der Präsentation oder Abschnitt
   des Thesenpapiers)
-- Ergänzende Hinweise (verwendeter Prompt, Screenshot, ...)
+- Ergänzende Hinweise (z.B. verwendeter Prompt)
 
 ## Arbeitshypothese
 
@@ -104,12 +113,21 @@ Die annotierte Bibliographie ist arbeitsaufwändig. Ich fordere sie aber ein, da
 sie mir die **Gelegenheit gibt, Ihnen frühzeitig im Arbeitsprozess eine
 Rückmeldung zu geben**, die Ihnen hoffentlich hilft.
 
-## Startpunkte für Ihre Recherche in Pädagogik/Psychologie
+## Startpunkte für Ihre Recherche
 
+Bei vielen Fachreferatsthemen ist zu empfehlen, dass Sie früh in der Recherche
+(erste Woche) in eine Universitätsbibliothek schauen. Davor sollten Sie über
+den online Universitätskatalog informieren, wo für Sie relevante Werke zu
+finden sind. Für PP-Fachreferate bieten sich nur Bibliotheken von Universitäten
+an, die auch Pädagogik- oder Psychologie-Lehrstühle haben.
+
+Nützliche Websites für PP:
 <https://liebermann-schulpsychologie.github.io/schulpsychologie/paepsy/nuetzliche-websites-paepsy/>
 
 ## Hinweise zum Thesenpapier 
 
+- Das Thesenpapier sollte auch ohne den Vortrag verständlich sein. Es sollte
+  keiner zusätzlichen mündlichen Erklärungen benötigen.
 - Für Pädagogik/Psychologie oder Aspekte: Das Beispiel für
   Pädagogik/Psychologie, das Sie auf der Website der Schule finden, enthält mir
   zu viele direkte Zitate. Für Ihre Ausarbeitung würde ich mir wünschen, dass
@@ -122,17 +140,24 @@ Rückmeldung zu geben**, die Ihnen hoffentlich hilft.
 
 ## Vortrag und Einbezug der Klasse
 
+- Im Selbstlernkurs und im Bewertungsbogen finden Sie viele Hinweise zu den
+  Anforderungen an den Vortrag.
+- Alle auf dem Thesenpapier aufgeführten Informationen sollten auch im Vortrag
+  präsentiert werden.
 - Teil der Anforderungen des Fachreferates ist, dass Sie die Klasse kurz
   interaktiv einbinden, damit diese mehr vom Referat mitnimmt. Die Zeit, die
   Sie für interaktive Teile verwenden, ist nicht Teil der 20 Minuten. Der
   interaktive Teil sollte 10 Minuten nicht überschreiten (außer Sie haben mir
   mir eine Ausnahme besprochen).
-- Im Selbstlernkurs und im Bewertungsbogen finden Sie viele Hinweise zu den
-  Anforderungen an den Vortrag.
 - Sie können entweder Ihr Thesenpapier dem Rest der Klasse anstelle eines
   Handouts ausgeben oder ein Handout ausgehend von Ihrem Thesenpapier
   erstellen. (Tipp: Konzentrieren Sie sich in der Vorbereitung nicht auf die
   Erstellung eines aufwändigen Handouts. Es fließt nicht in die Bewertung ein.)
+- Ich empfehle Ihnen, Thesenpapier und Vortrag gleich aufzubauen (abgesehen von
+  Abschnitten des Vortrags, die nicht im Thesempapier auftauchen, wie der
+  interaktive Teil). Wenn Ihr Thesenpapier einem anderen Aufbau folgt als Ihre
+  Präsentation, besprechen Sie dies bitte mit mir vor.
+- Bitte **zitieren Sie auch auf den Präsentationsfolien nach APA**.
 
 ## Reflexion
 
