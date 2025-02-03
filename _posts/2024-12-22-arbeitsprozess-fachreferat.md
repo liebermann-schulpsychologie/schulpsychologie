@@ -125,6 +125,17 @@ an, die auch Pädagogik- oder Psychologie-Lehrstühle haben.
 die Sprache der Wissenschaft und in den meisten Fällen werden Sie mehr
 Veröffentlichungen in Englisch finden.
 
+Für jede Quelle sollten Sie überprüfen, ob sie **zitierwürdig** ist. Die Frage
+nach der Zitierwürdigkeit ist keine Ja/Nein-Frage, sondern wir können
+Zitierwürdigkeit auf einem Kontinuum beurteilen. Ihr Ziel ist, keine Quellen
+von der unteren Hälfte des Kontinuums zu zitieren und möglichst nur Quellen vom
+oberen Ende. Es kann je nach Thema aber sein, dass Sie nur wenige Quellen
+finden, die den Goldstandard erfüllen (in den Sozialwissenschaften wären das
+z.B. peer-reviewte, randomisierte, kontrollierte Studien). Bei der Beurteilung
+der Zitierwürdigkeit hilft Ihnen folgender Blogpost: [Zitierwürdigkeit: Kann
+ich meinen Quellen
+trauen?](https://thesius.de/blog/articles/zitierwuerdigkeit-wissenschaftliche-quellen/)
+
 Nützliche Websites für PP:
 <https://liebermann-schulpsychologie.github.io/schulpsychologie/paepsy/nuetzliche-websites-paepsy/>
 
