@@ -108,10 +108,15 @@ Inhalt ändern.
     - Sie bekommen eine vorgegebene Lernsituation, aus der Sie Beispiele
       entnehmen müssen, an denen Sie Ihr Verständnis der Theorie zeigen.
 
-    - Sie müssen in einem vorgegebenen Rahmen selbst Beispiele formulieren, die
-      sich eignen, Ihr Verständnis der Theorie zu zeigen.
+    - Sie müssen in einem vorgegebenen Rahmen selbst
+      Beispiele formulieren, die sich eignen, Ihr
+      Verständnis der Theorie zu zeigen. Dabei ist es
+      häufig der Fall, dass Ihnen Materialien vorgegeben
+      werden, die die Grundlage der Beispiele oder
+      Erklärung der Theorie bilden.
 
-4. **Schluss**: Beenden Sie den Aufsatz mit einem kurzen Schlussgedanken. Nehmen
+4. **Schluss**: Beenden Sie den Aufsatz mit einem kurzen
+   Schlussgedanken. Nehmen
    Sie zum Beispiel Stellung zum Thema oder zur Theorie mit einer Einordnung
    von dessen Bedeutung oder mit Hinweis auf Grenzen der Theorie. Der Schluss
    sollte Bezug zur Aufgabenstellung haben und Relevanz für das Fach
