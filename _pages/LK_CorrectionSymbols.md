@@ -46,6 +46,7 @@ Inhalt ändern.
 | Zs | Zusammenhang |
 | Fs | Fachsprache |
 | Bsp / Anw | Fehlendes oder falsches Beispiel / fehlende oder falsche Anwendung |
+| Wh | Wiederholung ||
 
 ## Tipps für den Fachaufsatz
 
