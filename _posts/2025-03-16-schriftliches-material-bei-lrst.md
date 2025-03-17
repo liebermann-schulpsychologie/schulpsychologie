@@ -4,12 +4,13 @@ date: 2025-03-16
 category: Lehrkraefte
 ---
 
-Die im Folgenden beschriebene Formatierung von Texten für Schülerinnen und
-Schüler (SuS) mit isolierter Lesestörung oder Lese-Rechtschreib-Störung. Die
-beschriebene Formatierung hat auch für SuS mit nicht-störungswertigen
-Leseschwierigkeiten Vorteile. Daher empfehle ich, alle Leistungsnachweise und
-nach Möglichkeit auch textlastige Arbeitsblätter wie hier beschreiben zu
-formatieren.
+In dieser Handreichung beschreibe ich welche Formatierung von Texten für
+Schülerinnen und Schüler (SuS) mit isolierter Lesestörung oder
+Lese-Rechtschreib-Störung förderlich ist. Die beschriebene Formatierung hat
+auch für SuS mit nicht-störungswertigen Leseschwierigkeiten Vorteile. Daher
+empfehle ich, alle Leistungsnachweise und nach Möglichkeit auch textlastige
+Arbeitsblätter wie hier beschreiben zu formatieren (nicht nur die Ausfertigung
+für SuS mit Lese-Rechtschreib-Störung).
 
 Der Nachteil der hier beschriebenen Formatierung ist, dass sie mehr Platz (und
 damit mehr Papier) benötigt und je nach individuellem Geschmack als weniger
