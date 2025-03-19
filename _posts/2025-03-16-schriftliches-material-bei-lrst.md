@@ -1,6 +1,7 @@
 ---
 title: 'Schriftliches Material für LRSt gestalten'
 date: 2025-03-16
+toc: true
 category: Lehrkraefte
 ---
 
