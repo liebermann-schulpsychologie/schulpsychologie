@@ -18,7 +18,7 @@ damit mehr Papier) benötigt und je nach individuellem Geschmack als weniger
 ästhetisch wahrgenommen werden kann.
 
 Es bietet sich an, die Formatierungseinstellungen über **Stile** in Word oder
-Libreoffice vorzunehmen und nicht für jeden Paragraphen einzeln.
+Libreoffice vorzunehmen und nicht für jeden Absatz einzeln.
 {: .notice}
 
 ## Schriftart und Schriftgröße
