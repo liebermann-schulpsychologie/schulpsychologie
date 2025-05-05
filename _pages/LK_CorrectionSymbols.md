@@ -83,6 +83,8 @@ Inhalt ändern.
 
 ### Hinweise zum Aufbau
 
+Je Teilaufgabe gliedert sich Ihre Antwort in:
+
 1. **Einleitung**
 
     - Sie geben entweder eine allgemeine Definition, die zum Themenbereich
@@ -91,16 +93,17 @@ Inhalt ändern.
     - Bitte fassen Sie NICHT die Lernsituation zusammen.
     - Am Ende der Einleitung stehen die Aufgabenstellungen in Ihren eigenen
       Worten.
-    - Wenige Sätze reichen aus. Fassen Sie sich kurz.
+    - Wenige Sätze reichen aus. Fassen Sie sich **kurz**.
 
-2. **Theoretische Ausführungen** (separat für jede Teilaufgabe)
+2. **Theoretische Ausführungen**
 
-    - Definieren Sie alle relevanten Begriffe.
+    - Definieren Sie alle relevanten Begriffe. (Dies kann teils auch in der
+      Einleitung stattfinden.)
 
     - Erläutern Sie den Sachverhalt und zeigen so Verständnis der Thematik.
-      Verdeutlichen Sie relevante Zusammenhänge und Prozesse.
+      Verdeutlichen Sie relevante **Zusammenhänge und Prozesse**.
 
-3. **Anwendung** (separat für jede Teilaufgabe): Bitte gehen Sie auf alles, was Sie
+3. **Anwendung**: Bitte gehen Sie auf alles, was Sie
    in der Theorie erklärt haben auch in der Anwendung ein. Machen Sie dabei
    durch Fachsprache und Bezüge auf die Theorie deutlich, welchen theoretischen
    Sachverhalt Sie in der Anwendung jeweils erläutern. Es gibt zwei
@@ -109,26 +112,28 @@ Inhalt ändern.
     - Sie bekommen eine vorgegebene Lernsituation, aus der Sie Beispiele
       entnehmen müssen, an denen Sie Ihr Verständnis der Theorie zeigen.
 
-    - Sie müssen in einem vorgegebenen Rahmen selbst
-      Beispiele formulieren, die sich eignen, Ihr
-      Verständnis der Theorie zu zeigen. Dabei ist es
-      häufig der Fall, dass Ihnen Materialien vorgegeben
-      werden, die die Grundlage der Beispiele oder
-      Erklärung der Theorie bilden.
+    - Sie müssen in einem vorgegebenen Rahmen selbst Beispiele formulieren, die
+      sich eignen, Ihr Verständnis der Theorie zu zeigen. Dabei ist es meist
+      der Fall, dass Ihnen Materialien vorgegeben werden, die die Grundlage der
+      Beispiele oder Erklärung der Theorie bilden.
 
-4. **Schluss**: Beenden Sie den Aufsatz mit einem kurzen
-   Schlussgedanken. Nehmen
-   Sie zum Beispiel Stellung zum Thema oder zur Theorie mit einer Einordnung
-   von dessen Bedeutung oder mit Hinweis auf Grenzen der Theorie. Der Schluss
-   sollte Bezug zur Aufgabenstellung haben und Relevanz für das Fach
-   Pädagogik/Psychologie.
+4. **Schluss**: Beenden Sie den Aufsatz mit einem **kurzen** Schlussgedanken.
+   Nehmen Sie zum Beispiel Stellung zum Thema oder zur Theorie mit einer
+   Einordnung von dessen Bedeutung oder mit Hinweis auf Grenzen der Theorie.
+   Der Schluss sollte Bezug zur Aufgabenstellung haben und Relevanz für das
+   Fach Pädagogik/Psychologie.
+
+Häufig ist es ratsam, nicht erst alle relevante theoretischen Inhalte und dann
+erst die Anwendung auszuführen, sondern die Theorie in sinnvolle Einheiten
+aufzuteilen, nach denen direkt die dazugehörige Anwendung auf das Beispiel
+erklärt wird. Schritt 2 und 3 können also miteinander "verzahnt" werden.
 
 ### Zeiteinteilung
 
-Die Anwendung wird in der Bewertung am stärksten gewichtet. Wenn Sie vor der
-Entscheidung stehen, ob Sie noch einen Schluss schreiben, oder Ihren
-Ausarbeitungen zur Anwendung etwas hinzufügen, verwenden Sie die begrenzte Zeit
-auf die Anwendung.
+Die Anwendung wird in der Bewertung am stärksten gewichtet; Einleitung und
+Schluss am schwächsten. Wenn Sie vor der Entscheidung stehen, ob Sie noch einen
+Schluss schreiben, oder Ihren Ausarbeitungen zur Anwendung etwas hinzufügen,
+verwenden Sie die begrenzte Zeit auf die Anwendung.
 
 ## Quellen
 
