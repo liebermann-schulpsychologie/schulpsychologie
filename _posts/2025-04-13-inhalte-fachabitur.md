@@ -41,10 +41,11 @@ Hobmair (2019): Kapitel 1
 - Wechselwirkungen von Kognition, Emotion und Motivation am Beispiel des Zürcher-Ressourcen-Modells nach Storch/Krause (ZRM)
 
 Anmerkung: Im BOS-Lehrplan ist der Motivationsprozess im Kontext der
-Leistungsmotivation gefordert. Im FOS-Lehrplan tritt an diese Stelle das
-Rubikon-Modell (als ein Prozess-Modell der Motivation). Dieses Modell kann
-daher indirekt gefragt sein, wenn sich die Aufgabe auf den Motivationsprozess
-bezieht, der in beiden Lehrplänen aufgeführt ist.
+**Leistungsmotivation** gefordert. (Im FOS-Lehrplan wird Leistungsmotivation
+auch genannt, im Abschnitt "Kompetenzerwartungen".) Im Abschnitt "Inhalte" ist
+der Motivationsprozess im FOS-Lehrplan aber zusammen mit dem **Rubikon-Modell**
+aufgeführt. Dieses Modell kann indirekt gefragt sein, wenn sich die Aufgabe auf
+den Motivationsprozess bezieht, der in beiden Lehrplänen aufgeführt ist.
 {: .notice}
 
 Hobmair (2019): Kapitel 2-4
