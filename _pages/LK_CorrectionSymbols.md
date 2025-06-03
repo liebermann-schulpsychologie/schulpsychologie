@@ -80,6 +80,7 @@ Inhalt ändern.
   Teile der Lernsituation indirekt zitieren.
 
 - Bitte **nummerieren Sie Ihre Seiten**, wenn Sie mehr als ein Blatt verwenden.
+  Schreiben Sie auf jedes Blatt Ihren Namen.
 
 ### Hinweise zum Aufbau
 
@@ -103,11 +104,12 @@ Je Teilaufgabe gliedert sich Ihre Antwort in:
     - Erläutern Sie den Sachverhalt und zeigen so Verständnis der Thematik.
       Verdeutlichen Sie relevante **Zusammenhänge und Prozesse**.
 
-3. **Anwendung**: Bitte gehen Sie auf alles, was Sie
-   in der Theorie erklärt haben auch in der Anwendung ein. Machen Sie dabei
-   durch Fachsprache und Bezüge auf die Theorie deutlich, welchen theoretischen
-   Sachverhalt Sie in der Anwendung jeweils erläutern. Es gibt zwei
-   Aufgabentypen:
+3. **Anwendung**: Bitte gehen Sie auf alles, was Sie in der Theorie erklärt
+   haben auch in der Anwendung ein. Machen Sie dabei durch Fachsprache und
+   Bezüge auf die Theorie deutlich, welchen theoretischen Sachverhalt Sie in
+   der Anwendung jeweils erläutern. Wo möglich (im zeitlichen und inhaltlichen
+   Rahmen), führen Sie mehr als einen Beleg oder ein Beispiel für jeden
+   theoretischen Inhalt auf. Es gibt zwei Aufgabentypen:
 
     - Sie bekommen eine vorgegebene Lernsituation, aus der Sie Beispiele
       entnehmen müssen, an denen Sie Ihr Verständnis der Theorie zeigen.
@@ -134,6 +136,10 @@ Die Anwendung wird in der Bewertung am stärksten gewichtet; Einleitung und
 Schluss am schwächsten. Wenn Sie vor der Entscheidung stehen, ob Sie noch einen
 Schluss schreiben, oder Ihren Ausarbeitungen zur Anwendung etwas hinzufügen,
 verwenden Sie die begrenzte Zeit auf die Anwendung.
+
+Lassen Sie nach jedem inhaltlichen Abschnitt Ihrer Ausarbeitung etwas Platz,
+damit Sie später in der Prüfung, sollten Sie noch Zeit haben, an die Stelle
+zurückkehren können und relevante Details ergänzen können.
 
 ## Quellen
 
