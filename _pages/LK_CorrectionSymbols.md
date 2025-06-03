@@ -125,10 +125,10 @@ Je Teilaufgabe gliedert sich Ihre Antwort in:
    Der Schluss sollte Bezug zur Aufgabenstellung haben und Relevanz für das
    Fach Pädagogik/Psychologie.
 
-Häufig ist es ratsam, nicht erst alle relevante theoretischen Inhalte und dann
-erst die Anwendung auszuführen, sondern die Theorie in sinnvolle Einheiten
+Fast immer ist es ratsam, nicht erst alle relevante theoretischen Inhalte und dann
+erst die Anwendung auszuführen, sondern die **Theorie in sinnvolle Einheiten
 aufzuteilen, nach denen direkt die dazugehörige Anwendung auf das Beispiel
-erklärt wird. Schritt 2 und 3 können also miteinander "verzahnt" werden.
+erklärt wird**. Schritt 2 und 3 können also miteinander "verzahnt" werden.
 
 ### Zeiteinteilung
 
