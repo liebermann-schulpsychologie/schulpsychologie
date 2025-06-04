@@ -57,11 +57,13 @@ Inhalt ändern.
   Fachaufsatzes ist auch eine weitere Unterteilung der Theorie und Anwendung in
   Absätze sinnvoll (z.B. nach Stufen/Schritten des Modells, das beschrieben
   wird). Einleitung und Schluss sollten immer durch Absätze vom Rest der
-  Bearbeitung abgesetzt sein. Unterüberschriften sind nicht vorgesehen.
+  Bearbeitung abgesetzt sein. **Unterüberschriften innerhalb einer Teilaufgabe
+  sind nicht vorgesehen.**
 
-- Bitte **überspringen Sie jede zweite Zeile** in handgeschriebenen Texten und zwei
-  oder mehr Zeilen zwischen Absätzen. Das macht es Ihnen leichter, Ergänzungen
-  hinzuzufügen und ich habe genügend Platz für Korrekturen.
+- Bitte **überspringen Sie jede zweite Zeile** in handgeschriebenen Texten und
+  zwei oder mehr Zeilen zwischen Absätzen. Das macht es Ihnen leichter,
+  Ergänzungen hinzuzufügen und ich habe genügend Platz für Korrekturen. Lassen
+  Sie außerdem **zwischen Absätzen einige Zeilen frei**.
 
 - Bitte geben Sie **Zeilenangaben** bei Bezügen auf das Material. Stellen Sie
   die Zeilenangaben in Klammen hinter das indirekte oder direkte Zitat.
