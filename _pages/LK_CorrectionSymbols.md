@@ -52,12 +52,14 @@ Inhalt ändern.
 
 ### Hinweise zur Form
 
-- Bitte machen Sie **inhaltlich sinnvolle Absätze**. Im Fachaufsatz bietet es sich
-  an, Theorie und Anwendung durch Absätze zu trennen. Je nach Umfang des
-  Fachaufsatzes ist auch eine weitere Unterteilung der Theorie und Anwendung in
-  Absätze sinnvoll (z.B. nach Stufen/Schritten des Modells, das beschrieben
-  wird). Einleitung und Schluss sollten immer durch Absätze vom Rest der
-  Bearbeitung abgesetzt sein. **Unterüberschriften innerhalb einer Teilaufgabe
+- Bitte machen Sie **inhaltlich sinnvolle Absätze**. Im Fachaufsatz trennen Sie
+  bitte Theorie und Anwendung durch Absätze. Fast immer ist auch eine weitere
+  Unterteilung der Theorie und Anwendung in Absätze sinnvoll (z.B. nach
+  Stufen/Schritten des Modells, das beschrieben wird oder einen Absatz je
+  geforderten Merkmals). Einleitung und Schluss sollten immer durch Absätze vom
+  Rest der Bearbeitung abgesetzt sein.
+
+- **Unterüberschriften innerhalb einer Teilaufgabe
   sind nicht vorgesehen.**
 
 - Bitte **überspringen Sie jede zweite Zeile** in handgeschriebenen Texten und
