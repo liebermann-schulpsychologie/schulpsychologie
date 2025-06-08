@@ -83,6 +83,11 @@ Inhalt ändern.
 - Verwenden Sie das **Präsens** (Gegenwart), wenn Sie im Rahmen der Anwendung
   Teile der Lernsituation indirekt zitieren.
 
+- Vermeiden Sie die Verwendung von "bzw." oder "/" statt "oder".
+
+- Fachsprachlich übliche Abkürzungen sind zulässig, wenn Sie diese bei der
+  ersten Verwendung definieren.
+
 - Bitte **nummerieren Sie Ihre Seiten**, wenn Sie mehr als ein Blatt verwenden.
   Schreiben Sie auf jedes Blatt Ihren Namen.
 
