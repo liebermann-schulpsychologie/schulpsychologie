@@ -1,5 +1,5 @@
 ---
-title: 'Korrekturzeichen Pädagogik / Psychologie'
+title: Korrekturzeichen Pädagogik / Psychologie
 last_modified_at: 2023-11-03
 permalink: /correction-symbols/
 toc: true
@@ -92,38 +92,38 @@ Je Teilaufgabe gliedert sich Ihre Antwort in:
 
 1. **Einleitung**
 
-    - Sie geben entweder eine allgemeine Definition, die zum Themenbereich
-      hinführt oder ordnen das Thema in einen weiteren Kontext ein (s.
-      Einleitung der Kapitel im Lehrbuch), um zum Thema hinzuführen.
-    - Bitte fassen Sie NICHT die Lernsituation zusammen.
-    - Am Ende der Einleitung stehen die Aufgabenstellungen in Ihren eigenen
-      Worten.
-    - Wenige Sätze reichen aus. Fassen Sie sich **kurz**.
+   - Sie geben entweder eine allgemeine Definition, die zum Themenbereich
+     hinführt oder ordnen das Thema in einen weiteren Kontext ein (s.
+     Einleitung der Kapitel im Lehrbuch), um zum Thema hinzuführen.
+   - Bitte fassen Sie NICHT die Lernsituation zusammen.
+   - Am Ende der Einleitung stehen die Aufgabenstellungen in Ihren eigenen
+     Worten.
+   - Wenige Sätze reichen aus. Fassen Sie sich **kurz**.
 
-2. **Theoretische Ausführungen**
+1. **Theoretische Ausführungen**
 
-    - Definieren Sie alle relevanten Begriffe. (Dies kann teils auch in der
-      Einleitung stattfinden.)
+   - Definieren Sie alle relevanten Begriffe. (Dies kann teils auch in der
+     Einleitung stattfinden.)
 
-    - Erläutern Sie den Sachverhalt und zeigen so Verständnis der Thematik.
-      Verdeutlichen Sie relevante **Zusammenhänge und Prozesse**.
+   - Erläutern Sie den Sachverhalt und zeigen so Verständnis der Thematik.
+     Verdeutlichen Sie relevante **Zusammenhänge und Prozesse**.
 
-3. **Anwendung**: Bitte gehen Sie auf alles, was Sie in der Theorie erklärt
+1. **Anwendung**: Bitte gehen Sie auf alles, was Sie in der Theorie erklärt
    haben auch in der Anwendung ein. Machen Sie dabei durch Fachsprache und
    Bezüge auf die Theorie deutlich, welchen theoretischen Sachverhalt Sie in
    der Anwendung jeweils erläutern. Wo möglich (im zeitlichen und inhaltlichen
    Rahmen), führen Sie mehr als einen Beleg oder ein Beispiel für jeden
    theoretischen Inhalt auf. Es gibt zwei Aufgabentypen:
 
-    - Sie bekommen eine vorgegebene Lernsituation, aus der Sie Beispiele
-      entnehmen müssen, an denen Sie Ihr Verständnis der Theorie zeigen.
+   - Sie bekommen eine vorgegebene Lernsituation, aus der Sie Beispiele
+     entnehmen müssen, an denen Sie Ihr Verständnis der Theorie zeigen.
 
-    - Sie müssen in einem vorgegebenen Rahmen selbst Beispiele formulieren, die
-      sich eignen, Ihr Verständnis der Theorie zu zeigen. Dabei ist es meist
-      der Fall, dass Ihnen Materialien vorgegeben werden, die die Grundlage der
-      Beispiele oder Erklärung der Theorie bilden.
+   - Sie müssen in einem vorgegebenen Rahmen selbst Beispiele formulieren, die
+     sich eignen, Ihr Verständnis der Theorie zu zeigen. Dabei ist es meist
+     der Fall, dass Ihnen Materialien vorgegeben werden, die die Grundlage der
+     Beispiele oder Erklärung der Theorie bilden.
 
-4. **Schluss**: Beenden Sie den Aufsatz mit einem **kurzen** Schlussgedanken.
+1. **Schluss**: Beenden Sie den Aufsatz mit einem **kurzen** Schlussgedanken.
    Nehmen Sie zum Beispiel Stellung zum Thema oder zur Theorie mit einer
    Einordnung von dessen Bedeutung oder mit Hinweis auf Grenzen der Theorie.
    Der Schluss sollte Bezug zur Aufgabenstellung haben und Relevanz für das
